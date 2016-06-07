@@ -17,5 +17,4 @@
 
   (testing "returns number if not multiple of 3 or 5"
     (is (= 1 (fizzbuzz 1)))
-    (is (= 2 (fizzbuzz 2))))
-  )
+    (is (= 2 (fizzbuzz 2)))))
